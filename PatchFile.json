@@ -1,18 +1,17 @@
 ﻿{
     "version":"1.0.0",
-    "source":"https://raw.githubusercontent.com/truespace/PatchMyFile/main/bin",
     "filelist":
     [
-      { "filename":"GameProcess.deps.json" },
-      { "filename":"GameProcess.dll" },
-      { "filename":"GameProcess.exe", "type":"exe" },
-      { "filename":"GameProcess.pdb" },
-      { "filename":"GameProcess.runtimeconfig.json" },
-      { "filename":"roadToGrowth.png" },
-      { "filename":"UnityPlayer.dll" },
-      { "filename":"configuration.json" },
-      { "filename":"node-v14.16.1-x86.msi" },
-      { "filename":"picpick_inst_kr.exe" },
-      { "filename":"WindowsPCHealthCheckSetup.msi" }
+      { "sourceUrl":"https://raw.githubusercontent.com/truespace/PatchMyFile/PatchV3/bin/", "filename":"GameProcess.deps.json" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"GameProcess.dll" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"GameProcess.exe", "type":"exe" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"GameProcess.pdb" },
+      { "sourceUrl":"https://raw.githubusercontent.com/truespace/PatchMyFile/PatchV3/bin/", "filename":"GameProcess.runtimeconfig.json" },
+      { "sourceUrl":"https://raw.githubusercontent.com/truespace/PatchMyFile/PatchV3/bin/", "filename":"roadToGrowth.png" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"UnityPlayer.dll" },
+      { "sourceUrl":"https://raw.githubusercontent.com/truespace/PatchMyFile/PatchV3/bin/", "filename":"configuration.json" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"node-v14.16.1-x86.msi" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"picpick_inst_kr.exe" },
+      { "sourceUrl":"https://github.com/truespace/PatchMyFile/raw/PatchV3/bin/", "filename":"WindowsPCHealthCheckSetup.msi" }
     ]
 }
