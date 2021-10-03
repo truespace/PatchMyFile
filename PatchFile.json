@@ -2,17 +2,21 @@
     "version":"1.0.0",
     "source":"https://github.com/truespace/PatchMyFile/tree/main/bin",
     "filelist":
-    {
-        "/":[
-            { "filename":"GameProcess.deps.json" },
-            { "filename":"GameProcess.dll" },
-            { "filename":"GameProcess.exe", "type":"exe" },
-            { "filename":"GameProcess.pdb" },
-            { "filename":"GameProcess.runtimeconfig.json" }
-        ],
-        "/Resources":[
-            { "filename":"configuration.json" },
-            { "filename":"roadToGrowth.png" }
-        ]
-    }
+    [
+        { "subpath": "/",
+            "filelist": [
+                { "filename":"GameProcess.deps.json" },
+                { "filename":"GameProcess.dll" },
+                { "filename":"GameProcess.exe", "type":"exe" },
+                { "filename":"GameProcess.pdb" },
+                { "filename":"GameProcess.runtimeconfig.json" }
+            ]
+        },
+        { "subpath": "/Resources",
+            "filelist": [
+                { "filename":"configuration.json" },
+                { "filename":"roadToGrowth.png" }
+            ]
+        }
+    ]
 }
