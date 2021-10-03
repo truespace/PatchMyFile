@@ -1,6 +1,6 @@
 ﻿{
     "version":"1.0.0",
-    "source":"https://.....",
+    "source":"https://github.com/truespace/PatchMyFile/tree/main/bin",
     "filelist":
     {
         "/":[
@@ -15,3 +15,4 @@
             { "filename":"roadToGrowth.png" }
         ]
     }
+}
