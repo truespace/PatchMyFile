@@ -12,7 +12,7 @@
                 { "filename":"GameProcess.runtimeconfig.json" }
             ]
         },
-        { "subpath": "/Resources",
+        { "subpath": "/Resources/",
             "filelist": [
                 { "filename":"configuration.json" },
                 { "filename":"roadToGrowth.png" }
