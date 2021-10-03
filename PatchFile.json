@@ -1,7 +1,7 @@
 ﻿{
     "version":"1.0.0",
-    "source":"https://github.com/truespace/PatchMyFile/tree/main/bin",
-    "filelist":
+    "source":"https://raw.githubusercontent.com/truespace/PatchMyFile/main/bin",
+    "dirlist":
     [
         { "subpath": "/",
             "filelist": [
